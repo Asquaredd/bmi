@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bmi/static/css/main.073c9b0a.css",
+    "main.js": "/bmi/static/js/main.59559451.js",
+    "static/js/787.bd71c651.chunk.js": "/bmi/static/js/787.bd71c651.chunk.js",
+    "static/media/logo.svg": "/bmi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bmi/index.html",
+    "main.073c9b0a.css.map": "/bmi/static/css/main.073c9b0a.css.map",
+    "main.59559451.js.map": "/bmi/static/js/main.59559451.js.map",
+    "787.bd71c651.chunk.js.map": "/bmi/static/js/787.bd71c651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.59559451.js"
+  ]
+}
